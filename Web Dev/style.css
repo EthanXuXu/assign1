@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Helvetica Neue;
+    font-size: 18px;
+    background-color: #fd6a02;
+}
+
+h1, h2 {
+    color: green;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 2%;
+}
+
+h2 {
+    font-size: 25px;
+    margin-bottom: 1%;
+}
+
+p{
+    text-align: justify;
+}
+
+.main-text {
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+#last-text {
+    font-size: 22px;
+}
